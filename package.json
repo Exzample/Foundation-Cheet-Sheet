@@ -1,0 +1,30 @@
+{
+  "name": "foundation-cheet-sheet",
+  "version": "1.0.0",
+  "description": "This a Foundation by Zurb tutorial by Traversey Media",
+  "main": "index.js",
+  "dependencies": {
+    "foundation-sites": "^6.5.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Exzample/Foundation-Cheet-Sheet.git"
+  },
+  "keywords": [
+    "Foundation",
+    "Cheet",
+    "Sheet"
+  ],
+  "author": "Douglas Henderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Exzample/Foundation-Cheet-Sheet/issues"
+  },
+  "homepage": "https://github.com/Exzample/Foundation-Cheet-Sheet#readme"
+}
